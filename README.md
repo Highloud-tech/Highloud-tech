@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Timothy Balogun
 =======================================================================================================================================
 
-A multidisciplinary Full-Stack web developer who loves React.
+A multidisciplinary Full-Stack web developer from Africa.
 -------------------------------------------------------------
 
 I started gaining momentum as a web developer coding with HTML back in 2015; immediately, I thought of having a website where I could showcase all my skills; that is where my love for back-end development began.
