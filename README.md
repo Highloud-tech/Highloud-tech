@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I am a backend engineer, developer, security auditor, and effective technical leader who loves react.
+I am a full-stack web developer who loves to react.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [highloudventure2020@gmail.com](mailto:highloudventure2020@gmail.com)
