@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Timothy Balogun
 =======================================================================================================================================
 
-A multidisciplinary Full-Stack web developer from Africa.
+A multidisciplinary Full-Stack web developer
 -------------------------------------------------------------
 
 I started developing a love for programming back in 2017; immediately, I thought of having a website where I could showcase my skills, and I eventually came up with the idea of building an e-commerce website with an entrepreneurial mindset. This is where my love for programming began.
