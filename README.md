@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A multidisciplinary Full-Stack web developer from Africa.
 -------------------------------------------------------------
 
-I started gaining momentum as a web developer coding with HTML back in 2017; immediately, I thought of having a website where I could showcase all my skills; that is where my love for back-end development began.
+I started developing love for programming back in 2017; immediately, I thought of having a website where I could showcase my skills, and I eventually came up with the idea of building an e-commerce website with an entrepreneurial mindset. This is where my love for back-end development began.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [highloud-tech](http://highloud-tech.github.io)
