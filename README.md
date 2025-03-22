@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A multidisciplinary Full-Stack web developer
 -------------------------------------------------------------
 
-I started developing a love for programming back in 2017; immediately, I thought of having a website where I could showcase my skills, and I eventually came up with the idea of building an e-commerce website with an entrepreneurial mindset. This is where my love for programming began.
+I started developing a love for programming back in 2022; immediately, I thought of having a website where I could showcase my skills, and I eventually came up with the idea of building an e-commerce website with an entrepreneurial mindset. This is where my love for programming began.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [highloud-tech](http://highloud-tech.github.io)
